@@ -84,9 +84,11 @@
 
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/bharathpatnaik/bharathpatnaik/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://github.com/bharathpatnaik/bharathpatnaik/blob/output/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
+
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 <DIV align="center">
 <p><a href="https://github.com/bharathpatnaik" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
