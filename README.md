@@ -41,7 +41,7 @@
 </DIV>
 
 
-<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
+<table>
   <thead align="center">
     <tr border: none;>
       <td><b>👇🏻 My Projects</b></td>
