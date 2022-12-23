@@ -35,7 +35,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/bharathpatnaik/bharathpatnaik/blob/main/assets/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student  
+## A few things you might want to know about me,
 
 - 👨‍💻 I have 8+ years of experience in building data intensive pipelines
 - 📚 My favorite projects have been the ML model deployment ones
