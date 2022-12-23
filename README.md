@@ -4,8 +4,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/bharathpatnaik/bharathpatnaik/blob/main/assets/giphy.gif" />
 
-# A few things about me,
-
+<h2><center>A few things about me,<h2></center>
 - 👨‍💻 I have 8+ years of experience in building data intensive pipelines
 - 📚 My favorite projects have been the ML model deployment ones
 - 💪🏼 I strive to build software that impacts lives
