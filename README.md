@@ -8,6 +8,8 @@
 
 
 - 👨‍💻 I have 8+ years of experience in building data intensive pipelines
+- I have worked for companies like Nike, Disney, Macy's
+- I've helped 
 - 📚 My favorite projects have been the ML model deployment ones
 - 💪🏼 I strive to build software that impacts lives
 - ⚡ I love playing computer games and mentoring people.
