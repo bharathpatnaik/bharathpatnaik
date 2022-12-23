@@ -39,7 +39,7 @@
 
 
 
-<h3><center>Open source projects</center></h3>
+<h3><center>Open source projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
