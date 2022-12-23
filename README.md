@@ -6,6 +6,7 @@
 
 [//]: # (<h3 align="center" style="margin: 0 0;">A few things about me,</h3> )
 
+<link href='https://fonts.googleapis.com/css?family=Advent Pro' rel='stylesheet'>
 <div style="text-align:center; width:100%;">
 <p style="font-family:Advent Pro">
 I have over 8 years of experience in building data intensive pipelines. 
