@@ -40,8 +40,8 @@
 </div>
 </DIV>
 
-
-<table>
+<div style="background-color:lightgrey">
+<table width="80%" style="margin: 0 auto; border:1px solid;text-align:center">
   <thead align="center">
     <tr border: none;>
       <td><b>👇🏻 My Projects</b></td>
@@ -75,6 +75,7 @@
     </tr>
   </tbody>
 </table>
+</div>
 
 ----
 
