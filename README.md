@@ -1,6 +1,15 @@
+[//]: # (Make with this: https://readme-typing-svg.demolab.com/demo/)
 <h1><center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=120&lines=Hello+There+%F0%9F%99%8B%F0%9F%8F%BB;Meet+me%2C+Bharath+%F0%9F%99%87%F0%9F%8F%BB;I+work+with+%26+lead+Data+Engineering+teams+%F0%9F%91%8A%F0%9F%8F%BB;I+specialize+in+Big+Data+%26+ML+Pipelines+%F0%9F%99%8C%F0%9F%8F%BB" alt="Typing SVG" /></a></center></h1>
 
-[//]: # (Make with this: https://readme-typing-svg.demolab.com/demo/)
+
+<img align="right" alt="GIF" height="160px" src="https://github.com/bharathpatnaik/bharathpatnaik/blob/main/assets/giphy.gif" />
+
+# A few things you might want to know about me,
+
+- 👨‍💻 I have 8+ years of experience in building data intensive pipelines
+- 📚 My favorite projects have been the ML model deployment ones
+- 💪🏼 I strive to build software that impacts lives
+- ⚡ I love playing computer games and mentoring people.
 
 
 <DIV align="center">
@@ -9,9 +18,6 @@
 
 <div style="margin-left:50px; width:100%;">
 <p>
-
-
-
   <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS (+Hadoop)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img alt="Postgres" src="https://img.shields.io/badge/PGSQL(+RDS)-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -28,23 +34,6 @@
 </p>
 </div>
 </DIV>
-
-
-
-
-
-<img align="right" alt="GIF" height="160px" src="https://github.com/bharathpatnaik/bharathpatnaik/blob/main/assets/giphy.gif" />
-
-## A few things you might want to know about me,
-
-- 👨‍💻 I have 8+ years of experience in building data intensive pipelines
-- 📚 My favorite projects have been the ML model deployment ones
-- 💪🏼 I strive to build software that impacts lives
-- ⚡ I love playing outdoor games and mentoring people.
-
-
-
-
 
 
 <h3>Open source projects</h3>
