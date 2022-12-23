@@ -61,3 +61,5 @@
    <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
+
+![](https://github.com/bharathpatnaik/bharathpatnaik/blob/main/assets/giphy.gif)
