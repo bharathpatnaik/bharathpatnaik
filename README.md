@@ -4,14 +4,14 @@
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/bharathpatnaik/bharathpatnaik/blob/main/assets/giphy.gif" />
 
-# A few things you might want to know about me,
+# A few things about me,
 
 - 👨‍💻 I have 8+ years of experience in building data intensive pipelines
 - 📚 My favorite projects have been the ML model deployment ones
 - 💪🏼 I strive to build software that impacts lives
 - ⚡ I love playing computer games and mentoring people.
 
-
+----
 <DIV align="center">
 
 ![](https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270)
@@ -36,8 +36,9 @@
 </DIV>
 
 
+
 <h3>Open source projects</h3>
-<table>
+<table class="center">
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
