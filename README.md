@@ -38,7 +38,7 @@
 
 
 <h3>Open source projects</h3>
-<table>
+<table class="centerTable">
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
