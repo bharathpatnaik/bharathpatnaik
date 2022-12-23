@@ -3,13 +3,16 @@
 [//]: # (Make with this: https://readme-typing-svg.demolab.com/demo/)
 
 
+<DIV align="center">
 
-Consider creating a terminal like this: https://github.com/KelviNosse/KelviNosse/blob/master/assets/terminal.gif
+![](https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270)
 
-
+<div style="margin-left:50px; width:100%;">
 <p>
+
+
+
   <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS (+Hadoop)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img alt="Postgres" src="https://img.shields.io/badge/PGSQL(+RDS)-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Spark" src="https://img.shields.io/badge/PySpark (@EMR/@DBR/+Glue)-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />
@@ -22,8 +25,11 @@ Consider creating a terminal like this: https://github.com/KelviNosse/KelviNosse
   <img alt="Unit testing" src="https://img.shields.io/badge/Unit_testing-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  
 </p>
+</div>
+</DIV>
+
+
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -69,4 +75,6 @@ Consider creating a terminal like this: https://github.com/KelviNosse/KelviNosse
 
 
 ![](https://github.com/bharathpatnaik/bharathpatnaik/blob/main/assets/giphy.gif)
-![](https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270)
+
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
