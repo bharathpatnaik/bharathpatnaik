@@ -6,9 +6,8 @@
 
 [//]: # (<h3 align="center" style="margin: 0 0;">A few things about me,</h3> )
 
-<link href='https://fonts.googleapis.com/css?family=Advent Pro' rel='stylesheet'>
 <div style="text-align:center; width:100%;">
-<p style="font-family:Advent Pro">
+<p style="font-family:Copperplate, Papyrus, fantasy">
 I have over 8 years of experience in building data intensive pipelines. 
 I had collaborated with companies like Nike, Disney, Macy's to build Big Data applications. 
 I also had a chance to help a few startups with setting up their AWS infra and enabled them to deliver SaaS products.
