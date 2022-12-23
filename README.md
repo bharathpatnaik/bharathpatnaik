@@ -5,7 +5,7 @@
 [//]: # (<img align="right" alt="GIF" height="160px" src="https://github.com/bharathpatnaik/bharathpatnaik/blob/main/assets/giphy.gif" />)
 
 [//]: # (<h3 align="center" style="margin: 0 0;">A few things about me,</h3> )
-
+<DIV align="center">
 <div style="text-align:center; width:100%;">
 <p style="font-family:Copperplate, Papyrus, fantasy">
 I have over 8 years of experience in building data intensive pipelines. 
@@ -17,7 +17,7 @@ I also had a chance to help a few startups with setting up their AWS infra and e
 
 ----
 
-<DIV align="center">
+
 
 ![](https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270)
 
