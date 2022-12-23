@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/bharathpatnaik/bharathpatnaik/blob/main/assets/giphy.gif" />
 
-<h3 align="center" style="margin: 0 0;">A few things about me,</h3> 
+[//]: # (<h3 align="center" style="margin: 0 0;">A few things about me,</h3> )
 
 
 - 👨‍💻 I have 8+ years of experience in building data intensive pipelines
