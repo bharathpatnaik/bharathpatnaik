@@ -1,15 +1,14 @@
 [//]: # (Dynamically Typing Header: https://readme-typing-svg.demolab.com/demo/)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=120&lines=Hello+There+%F0%9F%99%8B%F0%9F%8F%BB;Meet+me%2C+Bharath+%F0%9F%99%87%F0%9F%8F%BB;I+work+with+%26+lead+Data+Engineering+teams+%F0%9F%91%8A%F0%9F%8F%BB;I+specialize+in+Big+Data+%26+ML+Pipelines+%F0%9F%99%8C%F0%9F%8F%BB" alt="Typing SVG" /></a>
 
-Text below the dynmica header
-<DIV align="center">
-<div style="text-align:center; width:100%;">
-<p style="font-family:Copperplate, Papyrus, fantasy">
-I have over 8 years of experience in building data intensive pipelines. 
-I had collaborated with companies like Nike, Disney, Macy's to build Big Data applications. 
-I could help a few startups with setting up their AWS infra and enabled them to deliver SaaS products.
-</p>
-
+[//]: # (Text below the dynamic header)
+<div align="center">
+    <div style="text-align: center; width: 100%;">
+        <p style="font-family: Copperplate, Papyrus, fantasy;">
+            I have over 8 years of experience in building data intensive pipelines. I had collaborated with companies like Nike, Disney, Macy's to build Big Data applications. I could help a few startups with setting up their AWS infra and
+            enabled them to deliver SaaS products.
+        </p>
+    </div>
 </div>
 
 ----
