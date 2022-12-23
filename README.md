@@ -4,7 +4,8 @@
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/bharathpatnaik/bharathpatnaik/blob/main/assets/giphy.gif" />
 
-### A few things about me,
+<h3 align="center" style="margin: 0 0;">A few things about me,</h3> 
+
 
 - 👨‍💻 I have 8+ years of experience in building data intensive pipelines
 - 📚 My favorite projects have been the ML model deployment ones
@@ -76,7 +77,7 @@
 ----
 
 <div align="center">
-<h3 align="left" style="margin: 0px 0px;">Github stats:</h3> 
+<h3 align="left" style="margin: 0 0;">Github stats,</h3> 
 
 [![](https://github-readme-stats.vercel.app/api?username=bharathpatnaik&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/bharathpatnaik)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=bharathpatnaik&theme=material-palenight)](https://github.com/bharathpatnaik)
