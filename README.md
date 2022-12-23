@@ -16,7 +16,6 @@ I could help a few startups with setting up their AWS infra and enabled them to 
 
 </div>
 
-----
 
 
 
