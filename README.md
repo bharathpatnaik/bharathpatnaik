@@ -1,5 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+[//]: # (Make with this: https://readme-typing-svg.demolab.com/demo/)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Corbel&weight=800&duration=3000&pause=1000&color=B3B300&background=FF444400&center=false&vCenter=true&repeat=false&width=500&lines=Hello+There!+%F0%9F%99%8B%F0%9F%8F%BB;Nice+meeting+you!+%F0%9F%AB%A1;This+is+BP+%F0%9F%99%87%F0%9F%8F%BB;+Data+%26+an+ML+Engineer+with+8%2B+YoE+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" /></a>
+Consider creating a rerminal like this: https://github.com/KelviNosse/KelviNosse/blob/master/assets/terminal.gif
+
 
 <p>
   <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -63,3 +67,4 @@
 
 
 ![](https://github.com/bharathpatnaik/bharathpatnaik/blob/main/assets/giphy.gif)
+![](https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270)
