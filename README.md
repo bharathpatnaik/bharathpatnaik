@@ -1,8 +1,10 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=120&lines=Hello+There+%F0%9F%99%8B%F0%9F%8F%BB;Meet+me%2C+Bharath+%F0%9F%99%87%F0%9F%8F%BB;I+work+with+%26+lead+Data+Engineering+teams+%F0%9F%91%8A%F0%9F%8F%BB;I+specialize+in+Big+Data+%26+ML+Pipelines+%F0%9F%99%8C%F0%9F%8F%BB" alt="Typing SVG" /></a></center></h1>
 
 [//]: # (Make with this: https://readme-typing-svg.demolab.com/demo/)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Corbel&weight=800&duration=3000&pause=1000&color=B3B300&background=FF444400&center=false&vCenter=true&repeat=false&width=500&lines=Hello+There!+%F0%9F%99%8B%F0%9F%8F%BB;Nice+meeting+you!+%F0%9F%AB%A1;This+is+BP+%F0%9F%99%87%F0%9F%8F%BB;+Data+%26+an+ML+Engineer+with+8%2B+YoE+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" /></a>
-Consider creating a rerminal like this: https://github.com/KelviNosse/KelviNosse/blob/master/assets/terminal.gif
+
+
+
+Consider creating a terminal like this: https://github.com/KelviNosse/KelviNosse/blob/master/assets/terminal.gif
 
 
 <p>
