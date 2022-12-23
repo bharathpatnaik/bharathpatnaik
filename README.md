@@ -76,7 +76,7 @@
 ----
 
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h3 align="left" style="margin: 0px 0px;">Github stats:</h3> 
 
 [![](https://github-readme-stats.vercel.app/api?username=bharathpatnaik&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/bharathpatnaik)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=bharathpatnaik&theme=material-palenight)](https://github.com/bharathpatnaik)
@@ -85,10 +85,9 @@
 
 <p align="center">
   <img  src="https://github.com/bharathpatnaik/bharathpatnaik/blob/output/github-contribution-grid-snake.svg"
-    alt="example" />
+    alt="Grid that summarizes my contribution" />
 </p>
 
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 <DIV align="center">
 <p><a href="https://github.com/bharathpatnaik" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
