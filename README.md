@@ -38,8 +38,6 @@
 </DIV>
 
 
-
-<h3><center>Open source projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -75,7 +73,6 @@
   </tbody>
 </table>
 
-
 ----
 
 <div align="center">
@@ -86,9 +83,8 @@
 </div>
 
 
-
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/bharathpatnaik/bharathpatnaik/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 
@@ -101,6 +97,3 @@
 </DIV>
 
 ----
-
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
