@@ -10,7 +10,7 @@
 <p style="font-family:Copperplate, Papyrus, fantasy">
 I have over 8 years of experience in building data intensive pipelines. 
 I had collaborated with companies like Nike, Disney, Macy's to build Big Data applications. 
-I also had a chance to help a few startups with setting up their AWS infra and enabled them to deliver SaaS products.
+I could help a few startups with setting up their AWS infra and enabled them to deliver SaaS products.
 </p>
 
 </div>
