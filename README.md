@@ -2,17 +2,18 @@
 <h1><center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=120&lines=Hello+There+%F0%9F%99%8B%F0%9F%8F%BB;Meet+me%2C+Bharath+%F0%9F%99%87%F0%9F%8F%BB;I+work+with+%26+lead+Data+Engineering+teams+%F0%9F%91%8A%F0%9F%8F%BB;I+specialize+in+Big+Data+%26+ML+Pipelines+%F0%9F%99%8C%F0%9F%8F%BB" alt="Typing SVG" /></a></center></h1>
 
 
-<img align="right" alt="GIF" height="160px" src="https://github.com/bharathpatnaik/bharathpatnaik/blob/main/assets/giphy.gif" />
+[//]: # (<img align="right" alt="GIF" height="160px" src="https://github.com/bharathpatnaik/bharathpatnaik/blob/main/assets/giphy.gif" />)
 
 [//]: # (<h3 align="center" style="margin: 0 0;">A few things about me,</h3> )
 
+<div style="text-align:center; width:100%;">
+<p style="font-family:Advent Pro">
+I have over 8 years of experience in building data intensive pipelines. 
+I had collaborated with companies like Nike, Disney, Macy's to build Big Data applications. 
+I also had a chance to help a few startups with setting up their AWS infra and enabled them to deliver SaaS products.
+</p>
 
-- 👨‍💻 I have 8+ years of experience in building data intensive pipelines
-- 🤟🏻 I have worked for companies like Nike, Disney, Macy's
-- 🙌🏻 I've helped 2 startups setup their AWS infra for Data Engineering
-- 📚 My favorite projects have been the ML model deployment ones
-- 💪🏼 I strive to build software that impacts lives
-- ⚡ I love playing computer games and mentoring people.
+</div>
 
 ----
 
@@ -40,8 +41,8 @@
 </div>
 </DIV>
 
-<div style="background-color:lightgrey">
-<table width="80%" style="margin: 0 auto; border:1px solid;text-align:center">
+
+<table width="80%" style="margin: 0 auto; border:2px solid;text-align:center">
   <thead align="center">
     <tr border: none;>
       <td><b>👇🏻 My Projects</b></td>
@@ -75,12 +76,10 @@
     </tr>
   </tbody>
 </table>
-</div>
 
 ----
 
 <div align="center">
-<h3 align="left" style="margin: 0 0;">Github stats,</h3> 
 
 [![](https://github-readme-stats.vercel.app/api?username=bharathpatnaik&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/bharathpatnaik)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=bharathpatnaik&theme=material-palenight)](https://github.com/bharathpatnaik)
