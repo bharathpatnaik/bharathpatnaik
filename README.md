@@ -1,5 +1,5 @@
 [//]: # (Make with this: https://readme-typing-svg.demolab.com/demo/)
-<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=120&lines=Hello+There+%F0%9F%99%8B%F0%9F%8F%BB;Meet+me%2C+Bharath+%F0%9F%99%87%F0%9F%8F%BB;I+work+with+%26+lead+Data+Engineering+teams+%F0%9F%91%8A%F0%9F%8F%BB;I+specialize+in+Big+Data+%26+ML+Pipelines+%F0%9F%99%8C%F0%9F%8F%BB" alt="Typing SVG" /></a></center>
+<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=120&lines=Hello+There+%F0%9F%99%8B%F0%9F%8F%BB;Meet+me%2C+Bharath+%F0%9F%99%87%F0%9F%8F%BB;I+work+with+%26+lead+Data+Engineering+teams+%F0%9F%91%8A%F0%9F%8F%BB;I+specialize+in+Big+Data+%26+ML+Pipelines+%F0%9F%99%8C%F0%9F%8F%BB" alt="Typing SVG" /></a></center>
 
 
 
@@ -16,7 +16,7 @@ I could help a few startups with setting up their AWS infra and enabled them to 
 
 </div>
 
-
+----
 
 
 ![](https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270)
