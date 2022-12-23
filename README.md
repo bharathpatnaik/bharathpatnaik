@@ -37,10 +37,10 @@
 
 ## I'm a Computer Science and Engineering Student  
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- 👨‍💻 I have 8+ years of experience in building data intensive pipelines
+- 📚 My favorite projects have been the ML model deployment ones
+- 💪🏼 I strive to build software that impacts lives
+- ⚡ I love playing outdoor games and mentoring people.
 
 
 
