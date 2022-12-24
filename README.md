@@ -51,25 +51,25 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center"><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td style="text-align: center"><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td style="text-align: center"><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td style="text-align: center"><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td style="text-align: center"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td style="text-align: center"><a href="https://github.com/bharathpatnaik/pop-meter"><b>React PullToRefresh component</b></a></td>
+      <td style="text-align: center"><img alt="Stars" src="https://img.shields.io/github/stars/bharathpatnaik/pop-meter?style=flat-square&labelColor=343b41"/></td>
+      <td style="text-align: center"><img alt="Forks" src="https://img.shields.io/github/forks/bharathpatnaik/pop-meter?style=flat-square&labelColor=343b41"/></td>
+      <td style="text-align: center"><img alt="Issues" src="https://img.shields.io/github/issues/bharathpatnaik/pop-meter?style=flat-square&labelColor=343b41"/></td>
+      <td style="text-align: center"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bharathpatnaik/pop-meter?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td style="text-align: center"><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td style="text-align: center"><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td style="text-align: center"><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td style="text-align: center"><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td style="text-align: center"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td style="text-align: center"><a href="https://github.com/bharathpatnaik/data-mate"><b>Typescript & React Chrome Extension Starter</b></a></td>
+      <td style="text-align: center"><img alt="Stars" src="https://img.shields.io/github/stars/bharathpatnaik/data-mate?style=flat-square&labelColor=343b41"/></td>
+      <td style="text-align: center"><img alt="Forks" src="https://img.shields.io/github/forks/bharathpatnaik/data-mate?style=flat-square&labelColor=343b41"/></td>
+      <td style="text-align: center"><img alt="Issues" src="https://img.shields.io/github/issues/bharathpatnaik/data-mate?style=flat-square&labelColor=343b41"/></td>
+      <td style="text-align: center"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bharathpatnaik/data-mate?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td style="text-align: center"><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td style="text-align: center"><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td style="text-align: center"><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td style="text-align: center"><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td style="text-align: center"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td style="text-align: center"><a href="https://github.com/bharathpatnaik/watch-tower"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
+      <td style="text-align: center"><img alt="Stars" src="https://img.shields.io/github/stars/bharathpatnaik/watch-tower?style=flat-square&labelColor=343b41"/></td>
+      <td style="text-align: center"><img alt="Forks" src="https://img.shields.io/github/forks/bharathpatnaik/watch-tower?style=flat-square&labelColor=343b41"/></td>
+      <td style="text-align: center"><img alt="Issues" src="https://img.shields.io/github/issues/bharathpatnaik/watch-tower?style=flat-square&labelColor=343b41"/></td>
+      <td style="text-align: center"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bharathpatnaik/watch-tower?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
