@@ -5,8 +5,8 @@
 <div align="center">
     <div style="text-align: center; width: 100%;">
         <p style="font-family: Copperplate, Papyrus, fantasy;">
-            I have over 8 years of experience in building data intensive pipelines. I had collaborated with companies like Nike, Disney, Macy's to build Big Data applications. I could help a few startups with setting up their AWS infra and
-            enabled them to deliver SaaS products.
+            I have over 8 years of experience in building data intensive pipelines. After graduating out of BITS Pilani, I had collaborated with companies like Nike, Disney, Macy's to build big data applications. I've helped a few startups with setting up their AWS infra and
+            had enabled them to deliver SaaS products.
         </p>
     </div>
 </div>
