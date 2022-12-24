@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Refresh the snake viz on README
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
