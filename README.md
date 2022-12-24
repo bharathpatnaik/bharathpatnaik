@@ -6,7 +6,7 @@
     <div style="text-align: center; width: 100%;">
         <p style="font-family: Copperplate, Papyrus, fantasy;">
             I have over 8 years of experience in building data intensive pipelines. After graduating from <a href="https://www.bits-pilani.ac.in/MediaRanking">BITS Pilani</a>, I helped companies like Nike, Disney, Macy's build big data & ML applications. 
-            Also, I collaborated with a few startups and helped them setup their AWS infra and had enabled them deliver SaaS products.
+            Also, I collaborated with a few startups to help them setup their AWS infra and had enabled SaaS product delivery.
         </p>
     </div>
 </div>
