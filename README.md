@@ -51,7 +51,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center"><a href="https://github.com/bharathpatnaik/pop-meter"><b>1. Pop Meter - current pop music trends</b></a></td>
+      <td style="text-align: center"><a href="https://github.com/bharathpatnaik/pop-meter"><b>1. Pop Meter - current pop music trend viz</b></a></td>
       <td style="text-align: center"><img alt="Stars" src="https://img.shields.io/github/stars/bharathpatnaik/pop-meter?style=flat-square&labelColor=343b41"/></td>
       <td style="text-align: center"><img alt="Forks" src="https://img.shields.io/github/forks/bharathpatnaik/pop-meter?style=flat-square&labelColor=343b41"/></td>
       <td style="text-align: center"><img alt="Issues" src="https://img.shields.io/github/issues/bharathpatnaik/pop-meter?style=flat-square&labelColor=343b41"/></td>
@@ -65,7 +65,7 @@
       <td style="text-align: center"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bharathpatnaik/data-mate?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td style="text-align: center"><a href="https://github.com/bharathpatnaik/watch-tower"><b>3. Watch Tower - a data observability tool</b></a></td>
+      <td style="text-align: center"><a href="https://github.com/bharathpatnaik/watch-tower"><b>3. Watch Tower - a data observability feed</b></a></td>
       <td style="text-align: center"><img alt="Stars" src="https://img.shields.io/github/stars/bharathpatnaik/watch-tower?style=flat-square&labelColor=343b41"/></td>
       <td style="text-align: center"><img alt="Forks" src="https://img.shields.io/github/forks/bharathpatnaik/watch-tower?style=flat-square&labelColor=343b41"/></td>
       <td style="text-align: center"><img alt="Issues" src="https://img.shields.io/github/issues/bharathpatnaik/watch-tower?style=flat-square&labelColor=343b41"/></td>
